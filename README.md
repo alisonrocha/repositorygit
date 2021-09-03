@@ -5,12 +5,6 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
 <br>
 
 ## 🚀 Fundamentos ReactJS neste projeto
@@ -36,4 +30,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-É um simples projeto para listar os repositorios do Git usando a própria API do mesmo.
+É um simples projeto para listar os repositorios do GitHub usando a própria API do mesmo.
