@@ -13,7 +13,7 @@
 
 <br>
 
-## 🚀 Fundamentos do ReactJS neste projeto
+## 🚀 Fundamentos ReactJS neste projeto
 
 - Componentização;
 - Estado;
